@@ -1,5 +1,5 @@
-TurnKey Linux Tracker (Issues and Wiki)
-=======================================
+TurnKey Tracker (Issues & Wiki)
+===============================
 
 The `Issue Tracker`_ is used to report and track bugs, issues and
 feature requests related to TurnKey Linux. The `Wiki`_ is used to
@@ -7,25 +7,25 @@ propose and track appliance candidates, as well as a whiteboard.
 
 What it's not:
 
-    * A `support forum`_, we already have one of those.
-    * A `general discussion forum`_, we have one of those as well.
+* A `support forum`_, we already have one of those.
+* A `general discussion forum`_, we have one of those as well.
 
 Reporting a bug, issue or feature request
 -----------------------------------------
 
 The ideal bug/issue includes:
 
-    * A detailed description of the issue.
-    * How to reproduce the issue step by step.
-    * Any extra information that might be relevant, such as appliance
-      name, version, deployment (ISO, OpenStack, Amazon EC2), any
-      changes made prior to issue, etc.
+* A detailed description of the issue.
+* How to reproduce the issue step by step.
+* Any extra information that might be relevant, such as appliance
+  name, version, deployment (ISO, OpenStack, Amazon EC2), any
+  changes made prior to issue, etc.
 
 The ideal feature request includes:
 
-    * A detailed description of feature and component it relates to.
-    * One or more use cases for the feature.
-    * Any extra information that might be relevant.
+* A detailed description of feature and component it relates to.
+* One or more use cases for the feature.
+* Any extra information that might be relevant.
 
 Before creating a new issue, please check to see if a similar issue
 already exists. If it does, post a comment showing it also affects you
