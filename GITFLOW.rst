@@ -38,7 +38,7 @@ follows these guidelines:
 Walk through
 ------------
 
-As described above, GitHub is used facilitate collaboration, so the
+As described above, GitHub is used to facilitate collaboration, so the
 first thing to do is create a `GitHub account`_ and add your SSH public
 key if you haven't already done so.
 
@@ -70,7 +70,7 @@ remote, we'll call it ``upstream``::
     # Fetch any new changes to the original repository
     git fetch upstream
 
-    # Merges any changes fetched into your working branch
+    # Merge any changes fetched into your working branch
     git merge upstream/master
 
 Make your changes
