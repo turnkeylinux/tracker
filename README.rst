@@ -36,9 +36,14 @@ comments. Given this, it's useful to know the issue affects multiple
 people so we can give it priority. In this case, please try and include
 information that would help in closing the issue.
 
+Contributing
+------------
+
+Be bold, contribute code! See the `guidelines and walk through`_.
 
 .. _Issue Tracker: https://github.com/turnkeylinux/tracker/issues/
 .. _Wiki: https://github.com/turnkeylinux/tracker/wiki/
 .. _support forum: http://www.turnkeylinux.org/forum/support/
 .. _general discussion forum: http://www.turnkeylinux.org/forum/general/
+.. _guidelines and walk through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
 
