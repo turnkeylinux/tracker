@@ -1,8 +1,8 @@
 Recommended Git Flow
 ====================
 
-As you've most likely noticed, all TurnKey source code is managed by
-`git`_, and hosted on `GitHub`_ in one of the following organizations:
+All TurnKey source code is managed by `git`_, and hosted on 
+`GitHub`_ in one of the following organizations:
 
 * `turnkeylinux`_: TurnKey related components and projects.
 * `turnkeylinux-apps`_: TurnKey appliances.
