@@ -39,11 +39,13 @@ Knowing an issue effects multiple users is useful when we decide how
 to prioritize limited development resources. Please try and include any additional 
 information you think might help us close the issue.
 
-Contributing as a developer: use the source Luke!
--------------------------------------------------
+Contributing as a developer
+---------------------------
 
 TurnKey is 100% open source and the code for all components is right here on GitHub.
-Developers with good ideas are strongly encouraged to be bold and contribute code! See the `guidelines and walk through`_.
+Developers with good ideas are strongly encouraged to be bold and contribute code. Use the source Luke! 
+
+See the `guidelines and walk through`_.
 
 .. _Issue Tracker: https://github.com/turnkeylinux/tracker/issues/
 .. _Wiki: https://github.com/turnkeylinux/tracker/wiki/
