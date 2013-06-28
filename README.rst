@@ -1,5 +1,5 @@
-TurnKey Dev Tracker (Issues & Wiki)
-===================================
+TurnKey Dev Tracker
+===================
 
 TurnKey uses GitHub's project management features to track development.
 
