@@ -1,13 +1,19 @@
-TurnKey Tracker (Issues & Wiki)
-===============================
+TurnKey Development Tracker (Issues & Wiki)
+===========================================
 
-The `Issue Tracker`_ is used to report and track bugs, issues and
-feature requests related to TurnKey Linux. The `Wiki`_ is used to
-propose and track appliance candidates, as well as a whiteboard.
+TurnKey uses GitHub's project management features to track development.
 
-What it's not:
+Resources:
 
-* A `support forum`_, we already have one of those.
+1) The `Issue Tracker`_ is used to report and track bugs, issues and
+   feature requests related to TurnKey Linux. 
+
+2) The `Wiki`_ is used to propose and track appliance candidates,
+   and also as a general purpose whiteboard.
+   
+This tracker is **NOT** intended to be used as:
+
+* A `support forum`_ we already have one of those.
 * A `general discussion forum`_, we have one of those as well.
 
 Reporting a bug, issue or feature request
@@ -28,13 +34,10 @@ The ideal feature request includes:
 * Any extra information that might be relevant.
 
 Before creating a new issue, please check to see if a similar issue
-already exists. If it does, post a comment showing it also affects you
-with more information.
-
-Please try and avoid ``me too``, ``+1``, ``same here`` type empty
-comments. Given this, it's useful to know the issue affects multiple
-people so we can give it priority. In this case, please try and include
-information that would help in closing the issue.
+already exists. If it does, post a comment showing it also affects you. 
+Knowing an issue effects multiple users is useful when we decide how
+to prioritize limited development resources. Please try and include any additional 
+information you think might help us close the issue.
 
 Contributing
 ------------
