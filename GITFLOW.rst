@@ -24,7 +24,9 @@ follows these guidelines:
 * Anything in the master branch is deployable - builds successfully and
   is tested to work.
 * When working on something new, whether it be a bugfix or new feature,
-  create a descriptively named branch off of master.
+  create a descriptively named branch off of master. Each new branch 
+  should address just one issue (i.e. create a separate branch from 
+  master for each issue).
 * Commit to that branch locally and regularly. Source code should be
   documented and rational for changes included in commits.
 * When you need feedback or help, or you think the branch is ready for
@@ -80,8 +82,7 @@ Make your changes
 
     git checkout -b DESCRIPTIVE_BRANCH_NAME
 
-* **Hack away**: Make your changes, test and commit as you go.
-
+* **Hack away**: Make your changes, test and commit as you go. Remember please only address one issue per branch/pull request
 * **Test**: Perform final testing.
 
 Push changes and submit a Pull Request
