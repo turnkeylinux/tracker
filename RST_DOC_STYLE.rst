@@ -153,8 +153,8 @@ For example::
 *   Second item
     that continues on a second line
 *   Third item
-    * Use nested lists
-        *    By indenting 4-7 spaces
+    *   Use nested lists
+    *   By indenting 4-7 spaces
 *   Fourth item
 
 Linking
