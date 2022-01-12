@@ -52,6 +52,15 @@ Example of headers::
     Header 5
     """"""""
 
+Horizontal Rules
+----------------
+
+Simply place four or more hyphens (``-``) on there own line with blank lines before and after, with no indent
+
+``----``
+
+----
+
 Code Formatting
 ---------------
 
@@ -107,7 +116,7 @@ Lists
 Numbered
 ^^^^^^^^
 
-Create a numbered list with ``#``.
+Create a numbered list with hash (``#``).
 
 For example::
 
@@ -128,7 +137,7 @@ For example::
 Bullet
 ^^^^^^
 
-Create a bullet point list with ``*``.
+Create a bullet point list with asterix (``*``).
 
 For example::
 
@@ -148,8 +157,11 @@ For example::
     * By indenting 4-7 spaces
 * Fourth item
 
+Linking
+-------
+
 Hyperlink URLs
---------------
+^^^^^^^^^^^^^^
 
 Hyperlinks can be created by prepending and appending with a single backqoute (`````) and including the reference or link at the end in angle brackets (``<>``) followed by the underscore (``_``).
 
@@ -181,7 +193,19 @@ For example::
 .. _general discussion forum: http://www.turnkeylinux.org/forum/general/
 .. _guidelines and walk through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
 
-You can link to a file in the same repo.
+Link to Heading
+^^^^^^^^^^^^^^^
+
+Link to a heading in the same document.
+
+```Headers <#Headers>`_``
+
+`Headers <#Headers>`_
+
+Link to File
+^^^^^^^^^^^^
+
+Link to a file in the same repo.
 
 ```Follow TurnKeyLinux Workflow using git and GitHub <GITFLOW.rst>`_``
 
@@ -193,4 +217,5 @@ References
 ----------
 
 https://gist.github.com/dupuy/1855764
+
 https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst
