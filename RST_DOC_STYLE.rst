@@ -116,23 +116,43 @@ Lists
 Numbered
 ^^^^^^^^
 
-Create a numbered list with hash and fullstop (``#.``)
+Create a auto-enumerated list with hash and fullstop (``#.``)
 
 For example::
 
     #. First item
     #. Second item
     #. Third item
-        #. Frist sub item
-        #. Second sub item
+       #. Frist sub item
+       #. Second sub item
     #. Fourth item
 
 #. First item
 #. Second item
 #. Third item
-    #. Frist sub item
-    #. Second sub item
+
+   #. Frist sub item
+   #. Second sub item
 #. Fourth item
+
+Create a auto-enumerated list with hash and fullstop (``#.``)
+
+For example::
+
+    1. First item
+    2. Second item
+    3. Third item
+       1. First sub item
+       2. Second sub item
+    4. Fourth item
+
+1. First item
+2. Second item
+3. Third item
+
+   1. First sub item
+   2. Second sub item
+4. Fourth item
 
 Bullet
 ^^^^^^
@@ -145,17 +165,18 @@ For example::
     * Second item
       that continues on a second line
     * Third item
-        * Use nested lists
-        * By indenting 4-7 spaces
+      * Use nested lists
+      * By indenting 4-7 spaces
     * Fourth item
 
-*   First item
-*   Second item
-    that continues on a second line
-*   Third item
-    *   Use nested lists
-    *   By indenting 4-7 spaces
-*   Fourth item
+* First item
+* Second item
+  that continues on a second line
+* Third item
+
+  * Use nested lists
+  * By indenting 4-7 spaces
+* Fourth item
 
 Linking
 -------
