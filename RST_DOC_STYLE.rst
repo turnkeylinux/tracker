@@ -20,7 +20,7 @@ Contents
 
 * `Lists <#Lists>`_
 
-* `Hyperlink URLs <#hyperlink-urls>`_
+* `Linking <#linking>`_
 
 * `References <#references>`_
 
@@ -121,27 +121,17 @@ Create a numbered list with hash and fullstop (``#.``)
 For example::
 
     #. First item
-
     #. Second item
-
     #. Third item
-
         #. Frist sub item
-
         #. Second sub item
-
     #. Fourth item
 
 #. First item
-
 #. Second item
-
 #. Third item
-
     #. Frist sub item
-
     #. Second sub item
-
 #. Fourth item
 
 Bullet
@@ -152,30 +142,20 @@ Create a bullet point list with asterix (``*``).
 For example::
 
     * First item
-
     * Second item
-
       that continues on a second line
-
     * Third item
-
         * Use nested lists
         * By indenting 4-7 spaces
-
     * Fourth item
 
-* First item
-
-* Second item
-
-  that continues on a second line
-
-* Third item
-
+*   First item
+*   Second item
+    that continues on a second line
+*   Third item
     * Use nested lists
-    * By indenting 4-7 spaces
-
-* Fourth item
+        *    By indenting 4-7 spaces
+*   Fourth item
 
 Linking
 -------
