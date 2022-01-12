@@ -64,7 +64,7 @@ Simply place four or more hyphens (``-``) on there own line with blank lines bef
 Code Formatting
 ---------------
 
-To use ``highlighted monospaced text``, prepend and append the text with a double backquote (``).
+To use ``highlighted monospaced text``, prepend and append the text with a double backquote (``````).
 
 For example:
 
@@ -116,22 +116,28 @@ Lists
 Numbered
 ^^^^^^^^
 
-Create a numbered list with hash (``#``).
+Create a numbered list with hash and fullstop (``#.``)
 
 For example::
 
     #. First item
+
     #. Second item
+
     #. Third item
+
         #. Frist sub item
         #. Second sub item
+
     #. Fourth item
 
 #. First item
 #. Second item
 #. Third item
+
     #. Frist sub item
     #. Second sub item
+
 #. Fourth item
 
 Bullet
@@ -142,19 +148,29 @@ Create a bullet point list with asterix (``*``).
 For example::
 
     * First item
+    
     * Second item
+    
       that continues on a second line
+
     * Third item
+    
         * Use nested lists
-        * By indenting two spaces
+        * By indenting 4-7 spaces
+        
     * Fourth item
 
 * First item
+
 * Second item
+
   that continues on a second line
+
 * Third item
+
     * Use nested lists
     * By indenting 4-7 spaces
+    
 * Fourth item
 
 Linking
@@ -177,9 +193,9 @@ For example::
     
     .. _Issue Tracker: https://github.com/turnkeylinux/tracker/issues/
     .. _Wiki: https://github.com/turnkeylinux/tracker/wiki/
-    .. _support forum: http://www.turnkeylinux.org/forum/support/
-    .. _general discussion forum: http://www.turnkeylinux.org/forum/general/
-    .. _guidelines and walk through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
+    .. _Support Forum: http://www.turnkeylinux.org/forum/support/
+    .. _General Discussion Forum: http://www.turnkeylinux.org/forum/general/
+    .. _Guidelines and Walk Through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
 
 * `Issue Tracker`_
 * `Wiki`_
@@ -189,9 +205,9 @@ For example::
 
 .. _Issue Tracker: https://github.com/turnkeylinux/tracker/issues/
 .. _Wiki: https://github.com/turnkeylinux/tracker/wiki/
-.. _support forum: http://www.turnkeylinux.org/forum/support/
-.. _general discussion forum: http://www.turnkeylinux.org/forum/general/
-.. _guidelines and walk through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
+.. _Support Forum: http://www.turnkeylinux.org/forum/support/
+.. _General Discussion Forum: http://www.turnkeylinux.org/forum/general/
+.. _Guidelines and Walk Through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
 
 Link to Heading
 ^^^^^^^^^^^^^^^
