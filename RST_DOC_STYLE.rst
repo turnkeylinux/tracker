@@ -127,15 +127,19 @@ For example::
     #. Third item
 
         #. Frist sub item
+
         #. Second sub item
 
     #. Fourth item
 
 #. First item
+
 #. Second item
+
 #. Third item
 
     #. Frist sub item
+
     #. Second sub item
 
 #. Fourth item
@@ -148,16 +152,16 @@ Create a bullet point list with asterix (``*``).
 For example::
 
     * First item
-    
+
     * Second item
-    
+
       that continues on a second line
 
     * Third item
-    
+
         * Use nested lists
         * By indenting 4-7 spaces
-        
+
     * Fourth item
 
 * First item
@@ -170,7 +174,7 @@ For example::
 
     * Use nested lists
     * By indenting 4-7 spaces
-    
+
 * Fourth item
 
 Linking
