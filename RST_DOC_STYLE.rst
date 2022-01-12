@@ -29,7 +29,7 @@ Headers
 
 Typically ``Header 1`` is used for README.rst, any additional documentation pages will start with ``Header 2``, then ``Header 3`` for page sections and ``Header 4`` for subsections. ``Header 5`` is rarely used.
 
-The underlining needs to be atleast as long as the text
+The underlining needs to be atleast as long as the text.
 
 Example of headers::
 
@@ -57,6 +57,8 @@ Horizontal Rules
 
 Simply place four or more hyphens (``-``) on there own line with blank lines before and after, with no indent
 
+For example:
+
 ``----``
 
 ----
@@ -68,7 +70,7 @@ To use ``highlighted monospaced text``, prepend and append the text with a doubl
 
 For example:
 
-Change into directory with \``cd /etc/\`` and show a long list of of the directory with \``ls -l\``.
+``Change into directory with \``cd /etc/\`` and show a long list of of the directory with \``ls -l\``.``
 
 Change into directory with ``cd /etc/`` and show a long list of of the directory with ``ls -l``.
 
@@ -86,7 +88,7 @@ Basic Formatting
 Code Blocks
 -----------
 
-Follow a sentence or paragraph with a double colon (``::``) and indent the next line 1 tab or four spaces to create a monospaced highlighted block of text.
+Follow a sentence or paragraph with a double colon (``::``), then leave a blank line and indent the next line 1 tab or four spaces to create a monospaced highlighted block of text.
 
 For example::
 
@@ -123,6 +125,7 @@ For example::
     #. First item
     #. Second item
     #. Third item
+
        #. Frist sub item
        #. Second sub item
     #. Fourth item
@@ -131,17 +134,18 @@ For example::
 #. Second item
 #. Third item
 
-   #. Frist sub item
+   #. First sub item
    #. Second sub item
 #. Fourth item
 
-Create a auto-enumerated list with hash and fullstop (``#.``)
+Create a numbered list with hash and fullstop (``#.``)
 
 For example::
 
     1. First item
     2. Second item
     3. Third item
+
        1. First sub item
        2. Second sub item
     4. Fourth item
@@ -165,6 +169,7 @@ For example::
     * Second item
       that continues on a second line
     * Third item
+
       * Use nested lists
       * By indenting 4-7 spaces
     * Fourth item
@@ -219,7 +224,7 @@ Link to Heading
 
 Link to a heading in the same document.
 
-```Headers <#Headers>`_``
+```Code Formatting <#code-formatting>`_``
 
 `Headers <#Headers>`_
 
