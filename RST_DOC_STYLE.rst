@@ -245,3 +245,5 @@ References
 https://gist.github.com/dupuy/1855764
 
 https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst
+
+https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
