@@ -138,7 +138,7 @@ For example::
    #. Second sub item
 #. Fourth item
 
-Create a numbered list with hash and fullstop (``#.``)
+Create a numbered list starting with numbers and a fullstop (``#.``)
 
 For example::
 
