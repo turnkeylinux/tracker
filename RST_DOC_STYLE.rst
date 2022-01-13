@@ -1,7 +1,7 @@
 Recommended RST Document Style
 ==============================
 
-This document is basically a cheat sheet for reStructuredText to help guide new people in following TurnKeyLinux's documenting style.
+This document is basically a cheat sheet for reStructuredText to help guide new people in following TurnKeyLinux's documenting style in GitHub.
 
 Contents
 --------
@@ -29,7 +29,7 @@ Headers
 
 Typically ``Header 1`` is used for README.rst, any additional documentation pages will start with ``Header 2``, then ``Header 3`` for page sections and ``Header 4`` for subsections. ``Header 5`` is rarely used.
 
-The underlining needs to be atleast as long as the text.
+The underlining *must* be as long as the header text.
 
 Example of headers::
 
@@ -68,9 +68,9 @@ Code Formatting
 
 To use ``highlighted monospaced text``, prepend and append the text with a double backquote (``````).
 
-For example:
+For example::
 
-``Change into directory with \``cd /etc/\`` and show a long list of of the directory with \``ls -l\``.``
+    Change into directory with \``cd /etc/\`` and show a long list of of the directory with \``ls -l\``.
 
 Change into directory with ``cd /etc/`` and show a long list of of the directory with ``ls -l``.
 
@@ -161,7 +161,7 @@ For example::
 Bullet
 ^^^^^^
 
-Create a bullet point list with asterix (``*``).
+Create a bullet point list with asterisk (``*``).
 
 For example::
 
@@ -217,7 +217,7 @@ For example::
 .. _Wiki: https://github.com/turnkeylinux/tracker/wiki/
 .. _Support Forum: http://www.turnkeylinux.org/forum/support/
 .. _General Discussion Forum: http://www.turnkeylinux.org/forum/general/
-.. _Guidelines and Walk Through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
+_Guidelines and Walk Through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
 
 Link to Heading
 ^^^^^^^^^^^^^^^
@@ -226,7 +226,7 @@ Link to a heading in the same document.
 
 ```Code Formatting <#code-formatting>`_``
 
-`Headers <#Headers>`_
+`Code Formatting <#code-formatting>`_
 
 Link to File
 ^^^^^^^^^^^^
