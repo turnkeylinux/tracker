@@ -78,11 +78,11 @@ remote, we'll call it ``upstream``::
 Make your changes
 '''''''''''''''''
 
-* **Create a branch**: Remember to branch off master/main. Note that you have only one ``pull request`` per branch::
+* **Create a branch**: Remember to branch off master/main. Note: you have only one ``pull request`` per branch::
 
     git checkout -b DESCRIPTIVE_BRANCH_NAME
 
-* **Hack away**: Make your changes, remember please only address one issue per branch/pull request.
+* **Hack away**: Make your changes. Note: please only address one issue per branch/pull request.
 * **Test**: Test as you go.
 * **Commit**: Commit as you go, provide a biref descrption::
 
