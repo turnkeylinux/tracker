@@ -70,7 +70,7 @@ To use ``highlighted monospaced text``, prepend and append the text with a doubl
 
 For example::
 
-    Change into directory with \``cd /etc/\`` and show a long list of of the directory with \``ls -l\``.
+    Change into directory with ``cd /etc/`` and show a long list of of the directory with ``ls -l``.
 
 Change into directory with ``cd /etc/`` and show a long list of of the directory with ``ls -l``.
 
