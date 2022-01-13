@@ -217,7 +217,7 @@ For example::
 .. _Wiki: https://github.com/turnkeylinux/tracker/wiki/
 .. _Support Forum: http://www.turnkeylinux.org/forum/support/
 .. _General Discussion Forum: http://www.turnkeylinux.org/forum/general/
-_Guidelines and Walk Through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
+.. _Guidelines and Walk Through: https://github.com/turnkeylinux/tracker/blob/master/GITFLOW.rst
 
 Link to Heading
 ^^^^^^^^^^^^^^^
