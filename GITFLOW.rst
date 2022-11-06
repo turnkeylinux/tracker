@@ -28,7 +28,7 @@ follows these guidelines:
   should address just one issue (i.e. create a separate branch from 
   master for each issue).
 * Commit to that branch locally and regularly. Source code should be
-  documented and rational for changes included in commits.
+  documented and rationale for changes included in commits.
 * When you need feedback or help, or you think the branch is ready for
   merging, open a pull request.
 * After someone else has reviewed and signed off on the changes, the
@@ -125,4 +125,3 @@ until it is closed.
 .. _git-flow: http://nvie.com/posts/a-successful-git-branching-model
 .. _GitHub flow: http://scottchacon.com/2011/08/31/github-flow.html
 .. _GitHub account: https://github.com/signup
-
